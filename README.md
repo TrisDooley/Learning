@@ -10,3 +10,5 @@ I'll add more documentation in here over the week of Thanksgiving :)
 More documentation
 
 -tristan
+
+im pushing things
